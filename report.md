@@ -1,10 +1,8 @@
 # General description or introduction of the problem and your solution
 
-This homework is very similar to hw01, but it changes the data transfering way from fifo to TLM bus.  
+This homework requires us to implement gaussian blur in systemC and uses stratus to transfer our code to verilog code for High-level Synthesis. Moreover, we are asked to implement to different fifo situations. One is to split the rgb to different channels, the other is not to split the channels.
 
 # Implementation details (data structure, flows and algorithms)
-
-The code is very similar to previous hw01.
 
 # Result
 ## not_split
