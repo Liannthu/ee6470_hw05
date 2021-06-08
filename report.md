@@ -267,6 +267,10 @@ The code are just like previous one with adjusting the data connection way to di
         * register metrics : 811
         * memory metrics : 0
         * timing metrics : 7.2 (worst slack) 
+
+![image](https://user-images.githubusercontent.com/76727373/121180879-f6206d00-c893-11eb-9453-d675577bfdfa.png)
+
+
 * DPA:
     *  stimulation time : 24903670 ns
     *  total area : 1628
@@ -275,6 +279,9 @@ The code are just like previous one with adjusting the data connection way to di
         * register metrics : 769
         * memory metrics : 0
         * timing metrics : 8.0 (worst slack) 
+
+![image](https://user-images.githubusercontent.com/76727373/121180929-089aa680-c894-11eb-8246-30ec8855c953.png)
+
 ## split
 * BASIC:
     *  stimulation time : 42598390 ns
@@ -284,6 +291,9 @@ The code are just like previous one with adjusting the data connection way to di
         * register metrics : 956
         * memory metrics : 0
         * timing metrics : 7.2 (worst slack) 
+        
+![image](https://user-images.githubusercontent.com/76727373/121180698-b6f21c00-c893-11eb-958b-ca93c422f2d8.png)
+
 * DPA:
     *  stimulation time : 36700150 ns
     *  total area : 1744
@@ -292,6 +302,10 @@ The code are just like previous one with adjusting the data connection way to di
         * register metrics : 930
         * memory metrics : 0
         * timing metrics : 8.0 (worst slack) 
+        
+ ![image](https://user-images.githubusercontent.com/76727373/121180533-8ad69b00-c893-11eb-8ba9-a5d206b18e67.png)
+
+        
 
 # Discussion
 This homework is quite hard, but it is without a doubet a good practice for us to learn systemC. Besides, we have to write our report in English and submit our homework to GitHub, which are not familiar to me. Anyway, thank you for providing us this challenge.
